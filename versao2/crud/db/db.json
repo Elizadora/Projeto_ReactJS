@@ -1,0 +1,14 @@
+{
+  "products": [
+    {
+      "id": 3,
+      "nome": "Jeans",
+      "qtd": 2
+    },
+    {
+      "id": 4,
+      "nome": "Short",
+      "qtd": 13
+    }
+  ]
+}
